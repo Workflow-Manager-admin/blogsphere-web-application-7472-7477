@@ -1,0 +1,5 @@
+{
+  "task_description": "{'component_name': 'Post Management Component', 'description': 'The Post Management Component allows authenticated users to create, edit, and delete their blog posts. For admins, it provides additional functionalities to manage all posts on the platform. This component is crucial for content creation and moderation, ensuring a seamless user experience.', 'framework': 'React JS', 'interfaces': '', 'algorithms': '', 'pseudocode': '', 'figma_components': []}",
+  "tasks": {},
+  "next_task_id": 1
+}
